@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E62-E3E8
+
+ Directory of C:\Users\Santosh\Desktop\Myproject
+
+05/03/2017  03:54 PM    <DIR>          .
+05/03/2017  03:54 PM    <DIR>          ..
+05/03/2017  03:13 PM                23 proj.html
+05/03/2017  02:46 PM                 7 project.txt
+05/03/2017  03:54 PM                 0 test2.txt
+05/03/2017  03:46 PM               509 tets.txt
+05/03/2017  03:38 PM               460 text2.txt
+               5 File(s)            999 bytes
+               2 Dir(s)   5,635,444,736 bytes free
